@@ -1,5 +1,5 @@
 - Professional silly goose who happens to be okay at programming
-- Hobbyist? I hope to study CS in the future
+- Debatably hobbyist, planning on studying CS
 - Weird obsession with a 2009 children's game
 - Languages:
   - Python: my beloved
@@ -7,7 +7,7 @@
   - C#: for unity
   - JavaScript: done a few things, hoping to learn more
   - Java: learning
-  - Rust: learning :)
+  - Rust: eagerly learning :)
 <!--
 **Chesyon/Chesyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
